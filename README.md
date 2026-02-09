@@ -18,9 +18,6 @@
     <a href="https://www.linkedin.com/in/prakhar-mahant/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.topcoder.com/members/303007" target="_blank">
-      <img src="https://img.shields.io/badge/TopCoder-292929?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder" />
-    </a>
   </p>
 </div>
 
