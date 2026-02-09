@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Prakhar%20Mahant&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Prakhar%20Mahant&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%"/>
 
   <!-- Typing Effect Intro -->
   <a href="https://git.io/typing-svg">
