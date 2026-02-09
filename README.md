@@ -5,7 +5,7 @@
 
   <!-- Typing Effect Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339AF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+SOHAM+Health+App+%F0%9F%A7%98;React+Native+%26+Node.js+Expert;Culinary+Arts+Enthusiast+%F0%9F%8D%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339AF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;React+Native+%26+Node.js" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -22,16 +22,6 @@
 </div>
 
 <br/>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently building **SOHAM**, a comprehensive health & wellness mobile application.
-- 🌱 I’m currently deepening my knowledge in **OLAP databases** and **Hospitality Management**.
-- 👯 I’m looking to collaborate on **Open Source React Native projects**.
-- 🍳 Fun fact: When I'm not coding, I'm experimenting with **Italian cuisine** in the kitchen.
-
-<br/>
-
 ### 🛠️ Languages & Tools
 
 <div align="center">
